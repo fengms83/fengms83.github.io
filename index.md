@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+[2017-10-22](./log/2017/10/2017-10-22-first_blog)
