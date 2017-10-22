@@ -10,8 +10,9 @@ layout: home
 + [2017](./log/2017/index)
 + [2018](./log/2018/index)
 
-# 技术积累
+# [技术积累](./note/index)
 + [程序设计](./note/程序设计/index)
 + [软件架构](./note/软件架构/index)
 + [敏捷实践](./note/敏捷实践/index)
 + [团队管理](./note/团队管理/index)
++ [自动化测试](./note/自动化测试/index)
