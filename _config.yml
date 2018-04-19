@@ -29,6 +29,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+links: 
+  - title: "Home" 
+    url: /
+
+  - title: "About" 
+    url: /about 
+
+  - title: "github" 
+    url: https://fengms83.github.io/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -40,3 +50,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+paginate: 5
+paginate_path: "blog/page:num"
