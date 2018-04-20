@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "终身幼儿园"
-date:   2018-04-19 21:15:57 +0800
+title:  "高效阅读法"
+date:   2018-04-20 21:15:57 +0800
 categories: [note, education]
-group: navigation
 ---
 
 {% highlight bash %}
-通过阅读MIT Media实验室的终身幼儿园，领悟4P方法，学习如何教导小孩子，如何培养自己的创造力
+杠杆效益的阅读本质上不是读书，而是投资行为，因此，要具备判断力，...，把“垃圾”丢出去
 {% endhighlight %}
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
