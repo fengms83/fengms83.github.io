@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  "python培训教程"
+title:  "python培训教程(高级篇)"
 image: "https://fengms83.github.io/images/python_logo.jpg"
 date:   2016-03-21
-excerpt: "Python2.7培训教程."
+excerpt: "Python2.7培训教程，涵盖......"
 project: true
-tags: [blog, autotest]
+tags: [autotest]
 ---
 
 ![jekyll Image](https://fengms83.github.io/images/python_logo.jpg)
 {: .image-pull-right}
 
 <center><b>生命短暂，我用Python.</b></center>
+
+## [basic](./培训教程/python/2017-06-14-python-courses01-basic.md)
 
 ## About
 
