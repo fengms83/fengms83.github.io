@@ -4,7 +4,7 @@ title: "MIPS Nedir"
 date: 2012-05-22
 excerpt: "Mips ve assembly kodları giriş."
 scrum: true
-tags: [scrum, readability, test]
+tags: [scrum, autotest]
 ---
 **Mips Nedir ?**
 ===
