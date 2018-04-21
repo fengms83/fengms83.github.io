@@ -3,7 +3,7 @@ layout: post
 title: "MIPS Nedir"
 date: 2012-05-22
 excerpt: "Mips ve assembly kodları giriş."
-tags: [blog, autotest]
+tags: [blog, ]
 ---
 **Mips Nedir ?**
 ===

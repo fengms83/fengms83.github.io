@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "python培训教程(高级篇)"
+title:  "python培训教程(测试篇)"
 image: "https://fengms83.github.io/images/python_logo.jpg"
 date:   2016-03-21
-excerpt: "涵盖......"
+excerpt: "涵盖Python单元测试框架unittest的使用方法"
 project: true
 tags: [autotest]
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "python培训教程(基础篇)"
 image: "https://fengms83.github.io/images/python_logo.jpg"
 date:   2016-03-21
-excerpt: "Python2.7培训教程，涵盖......"
+excerpt: "涵盖......"
 project: true
 tags: [autotest]
 ---
