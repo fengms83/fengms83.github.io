@@ -17,4 +17,6 @@ date: 2016-03-21
  
  - 持续集成
 
+ - OTN、POTN
+
 [Visit Github](https://github.com/){: .btn .btn-info}
