@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "JBlog Jekyll Theme"
-image: "http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png"
+title:  "python培训教程"
+image: "https://fengms83.github.io/images/python_logo.jpg"
 date:   2016-03-21
-excerpt: "Simple Jekyll theme for your blog by Alperen Bozkurt."
+excerpt: "Python2.7培训教程."
 project: true
-tags: [blog, scrum]
+tags: [blog, autotest]
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![jekyll Image](https://fengms83.github.io/images/python_logo.jpg)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>生命短暂，我用Python.</b></center>
 
 ## About
 
