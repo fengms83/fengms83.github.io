@@ -13,7 +13,11 @@ tags: [autotest]
 
 <center><b>生命短暂，我用Python.</b></center>
 
-## [basic](./培训教程/python/2017-06-14-python-courses01-basic.md)
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+
 
 ## About
 

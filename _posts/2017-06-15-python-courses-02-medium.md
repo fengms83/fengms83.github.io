@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "python培训教程(中级篇)"
+title:  "python培训教程(进阶篇)"
 image: "https://fengms83.github.io/images/python_logo.jpg"
 date:   2016-03-21
 excerpt: "Python2.7培训教程，涵盖......"
@@ -13,7 +13,12 @@ tags: [autotest]
 
 <center><b>生命短暂，我用Python.</b></center>
 
-## [basic](./培训教程/python/2017-06-14-python-courses01-basic.md)
+
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+
 
 ## About
 
