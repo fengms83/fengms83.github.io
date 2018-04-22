@@ -1,5 +1,5 @@
 ---
 layout: scrum
-title: All Projects
-excerpt: "A List of Projects"
+title: 敏捷实践
+excerpt: "敏捷实践之路"
 ---

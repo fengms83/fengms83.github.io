@@ -1,5 +1,5 @@
 ---
 layout: blog
 title: 博客
-excerpt: "A List of Posts"
+excerpt: "读书笔记、心得"
 ---
